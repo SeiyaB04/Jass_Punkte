@@ -23,3 +23,6 @@ Im Jass gibt es 36 Karten mit 4 verschiedenen Farben. Daher hat jede Farbe 9 Kar
 | 2          | Jede Karte gibt es nur 1 mal im Spiel                  |Funktioniert| Mit Mühe geschafft |
 | 3          | An jeden Player werden 9 Karten verteilt               |Funktioniert| Mit Mühe geschafft |
 | 4          | Punkte des Trumpfes werden korrekt gezählt             |Funktioniert| Einfach zu implementieren |
+
+## Benutzer-Dokumentation
+Das Script startet man indem man in der Konsole zum Verzeichnis des Scripts geht. Danach kann man einfach "./jass.sh" eingeben und das Script läuft.
